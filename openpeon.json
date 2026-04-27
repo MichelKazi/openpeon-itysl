@@ -1,0 +1,163 @@
+{
+  "cesp_version": "1.0",
+  "name": "itysl",
+  "display_name": "I Think You Should Leave",
+  "version": "1.0.0",
+  "description": "Tim Robinson voice lines from I Think You Should Leave with Tim Robinson",
+  "author": {
+    "name": "michelkazi",
+    "github": "michelkazi"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/whoever_did_this_just_confess.mp3",
+          "label": "Whoever did this just confess",
+          "sha256": "3f2c8003d0654f5f2f38c13ab476d21e41a2971b87d89dec5ebce1ebae27cb76"
+        },
+        {
+          "file": "sounds/i_used_to_be_a_piece_of_shit.mp3",
+          "label": "I used to be a piece of shit",
+          "sha256": "1904b4e9e60e08c910a95007e439890630b286fb01c42c44ff0ad70ff7850e17"
+        },
+        {
+          "file": "sounds/no_problem_being_on_my_phone.mp3",
+          "label": "No problem being on my phone",
+          "sha256": "7a012a6be257b14180f8587a23588bc0dba581dc1418ce4c4a7fbfabb3e0d2dd"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/big_fat_load_of_cum_then.mp3",
+          "label": "Big fat load of cum then",
+          "sha256": "6e01aee4abc534b2b24332e0b1378c25cae91bac4e83f2de912dbc15a65071ac"
+        },
+        {
+          "file": "sounds/ill_take_it.mp3",
+          "label": "I'll take it",
+          "sha256": "51720fbe528816ad7d3ad60f44ebfa96ba10f12880c09a97d705178b78878872"
+        },
+        {
+          "file": "sounds/i_dont_give_a_rats_ass.mp3",
+          "label": "I don't give a rat's ass",
+          "sha256": "8dbfa71c4461f533bb1afdb12ce5985879dff6f11107ed39bb5b997cd22ff159"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/i_didnt_rig_this.mp3",
+          "label": "I didn't rig this",
+          "sha256": "d9f0f5342e2375f18b4cc753926bfef03a54c231c80e0f53732ba79e66e3e3ff"
+        },
+        {
+          "file": "sounds/i_can_finally_fight_my_wifes_new_husband.mp3",
+          "label": "I can finally fight my wife's new husband",
+          "sha256": "c69c04ad2a3359f3ab77d983a0aa5528b1c404587befb99f5c2a7b4f601281c7"
+        },
+        {
+          "file": "sounds/punish_him_ourselves.mp3",
+          "label": "Punish him ourselves",
+          "sha256": "8c4b9aef813109a696d38a92dc9eb4ab68ecf4e53a16aa26c0289cec242fd663"
+        },
+        {
+          "file": "sounds/give_him_a_spankin.mp3",
+          "label": "Give him a spankin'",
+          "sha256": "65ffaf206114330a5e7cc37646b33ccc399e960c907469b8bfaf8e803138247c"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/it_could_literally_be_any_one_of_us.mp3",
+          "label": "It could literally be any one of us",
+          "sha256": "6223f9a2152b6de9ee8da0207c580c6346aa4f5b6389997d7c22e39cc7f7da17"
+        },
+        {
+          "file": "sounds/i_dont_know_what_any_of_this_shit_is.mp3",
+          "label": "I don't know what any of this shit is and I'm fucking scared",
+          "sha256": "b1330ddfc4dc38b750b1985ebbb2cad2b304260067f3b0a4bb87dc0f176997d2"
+        },
+        {
+          "file": "sounds/fuck_theyre_trying_to_make_it_look_fake.mp3",
+          "label": "Fuck, they're trying to make it look fake",
+          "sha256": "85759ad6f05dbe8d8ba9cfdd28b1e654fcf202ff7c42d3d031bddbd3df001072"
+        },
+        {
+          "file": "sounds/idk_if_youre_allowed_to_do_that.mp3",
+          "label": "I don't know if you're allowed to do that",
+          "sha256": "581057675f6a976a8b9fac0a49f6d0078426f5fab4f9eebace806f0da5a6edb8"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/any_of_these_little_fuckers.mp3",
+          "label": "Do any of these little fuckers ever blast out of the wall?",
+          "sha256": "3f685fb34d9e065cbb7d0852184f4a77313582615c7c25e463e69fbb4e15475c"
+        },
+        {
+          "file": "sounds/idk_what_is_going_on.mp3",
+          "label": "I don't know what is going on",
+          "sha256": "18446982937ac489a7f13d4f0063afdca52d7444eda12e0252909907adade31a"
+        },
+        {
+          "file": "sounds/ive_never_gotten_here_before.mp3",
+          "label": "I've never gotten here before",
+          "sha256": "2be177456faddff9c242731ee91ecd98335c71f57bdfbbcaa936cc38613a84a6"
+        },
+        {
+          "file": "sounds/please_let_me_go_im_doing_something.mp3",
+          "label": "Please let me go, I'm doing something",
+          "sha256": "ac7e5eb549e87367f97a592932be5a5b7a8cef934510a36f541b8617ab1e1de0"
+        },
+        {
+          "file": "sounds/what_the_hell_are_you_talking_about.mp3",
+          "label": "What the hell are you talking about?",
+          "sha256": "04caad11a63c57fa80076649c00bdea55a894130835acc8ef5fd8f8eeaf4648c"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/i_dont_even_want_to_be_around_anymore.mp3",
+          "label": "I don't even want to be around anymore",
+          "sha256": "b8ad16366022ec764ca75cd81dce5b7e9b3faca5fd5721e0549b3dd32060c6c4"
+        },
+        {
+          "file": "sounds/this_worlds_fucked_up.mp3",
+          "label": "This world's fucked up",
+          "sha256": "cfdf39e621bff1e36d42e4ad0f7e07a085a92a0437ed06847bfa4e8fb4f31a5d"
+        },
+        {
+          "file": "sounds/i_have_so_much_stuff_on_my_phone.mp3",
+          "label": "I have so much stuff on my phone",
+          "sha256": "709507a19561e432a93606dd3ba2ce47adc91831e68d4c020c2cd2872a608356"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/im_good_thank_you.mp3",
+          "label": "I'm good, thank you",
+          "sha256": "c2114b67c4f187dbfcc89cc7c9795ecdf0d0344e618c45a763ed16771b45efcd"
+        },
+        {
+          "file": "sounds/dont_laugh.mp3",
+          "label": "Don't laugh!",
+          "sha256": "1ed60538442621cf7ee3d4592020cf4563a9bcff8f055a4d5f13598b7d5bd385"
+        }
+      ]
+    }
+  }
+}
